@@ -5,6 +5,7 @@ let num = ref(0)
 </script>
 
 <template>
+  <!-- Criação de uma barra de pesquisa com home e about -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark border-bottom border-body">
     <div class = "container-fluid">
       <router-link to="/" class="navbar-brand">Rick And Morty</router-link>
